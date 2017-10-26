@@ -1,1 +1,0 @@
-This is python code to change remove digits from file names present in the given directory.
